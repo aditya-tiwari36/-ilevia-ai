@@ -6,3 +6,4 @@ requests>=2.31
 astral>=3.2
 timezonefinder>=6.5
 pytz>=2024.1
+flask>=3.0

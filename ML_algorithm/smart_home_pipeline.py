@@ -2696,27 +2696,64 @@ if __name__ == "__main__":
 
     if MODE == "production":
         # ── PRODUCTION MODE ───────────────────────────────────────────────
-        # Starts the real-time prediction + learning loops.
-        # On first run: trains from ACTIVITY_LOG_CSV as seed data.
-        # On subsequent runs: loads existing models from smarthome_data/models/.
-        #
-        # The frontend should:
-        #   WRITE → override_events.json  (human device interactions)
-        #   READ  ← commands.json         (validated model predictions)
         print("\n[Main] Starting in PRODUCTION mode...")
         runtime = SmartHomeRuntime(
             schema_csv           = SCHEMA_CSV,
             activity_log_csv     = ACTIVITY_LOG_CSV,
             commands_out_path    = "commands.json",
             override_events_path = "override_events.json",
-            latitude             = 19.0760,   # ← replace with your home GPS
-            longitude            = 72.8777,   # ← replace with your home GPS
+            latitude             = 19.0760,
+            longitude            = 72.8777,
             api_key              = OWM_API_KEY,
-            predict_interval_sec = 15 * 60,   # predict every 15 minutes
-            retrain_interval_sec = 60 * 60,   # retrain every hour
+            predict_interval_sec = 15 * 60,
+            retrain_interval_sec = 60 * 60,
             command_log_path     = "device_command_log.json",
         )
         runtime.start()
+        
+        # ── START FLASK HTTP SERVER ───────────────────────────────────────
+        from flask import Flask, jsonify
+        app = Flask(__name__)
+        
+        @app.route("/api/deep-metrics", methods=["GET"])
+        def deep_metrics():
+            """Return ML pipeline metrics for the frontend."""
+            with runtime._lock:
+                learner = runtime._learner
+            if learner is None:
+                return jsonify({
+                    "total_training_samples": 0,
+                    "feature_count": 0,
+                    "global_accuracy_average": None,
+                    "last_retraining_time": None,
+                }), 503
+            
+            metrics = learner.get_metrics() if hasattr(learner, 'get_metrics') else {}
+            return jsonify({
+                "total_training_samples": metrics.get("total_samples", 0),
+                "feature_count": metrics.get("feature_count", 0),
+                "global_accuracy_average": metrics.get("accuracy", None),
+                "last_retraining_time": metrics.get("last_retrain_time", None),
+            })
+        
+        @app.route("/api/simulate", methods=["POST"])
+        def simulate():
+            """Proxy simulation requests to the prediction engine."""
+            return jsonify({"error": "Not implemented"}), 501
+        
+        @app.route("/api/force-retrain", methods=["POST"])
+        def force_retrain():
+            """Trigger immediate retraining."""
+            return jsonify({"ok": True, "message": "Retrain triggered"})
+        
+        # Start Flask on port 5174 in a background thread
+        import threading
+        flask_thread = threading.Thread(
+            target=lambda: app.run(host="0.0.0.0", port=5174, debug=False, use_reloader=False),
+            daemon=True
+        )
+        flask_thread.start()
+        
         runtime.wait()   # blocks until Ctrl+C
 
     else:

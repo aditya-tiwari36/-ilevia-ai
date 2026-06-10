@@ -1,0 +1,2038 @@
+Timestamp,Device_ID,Device_Type,Parameter_Changed,New_Value,Trigger_Source
+2026-01-01 06:53:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-01-01 06:54:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-01 06:55:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Low,Human
+2026-01-01 07:21:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,70,Human
+2026-01-01 07:53:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-01-01 07:54:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,30,Human
+2026-01-01 09:08:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-01-01 19:15:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-01 19:16:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,65,Human
+2026-01-01 19:17:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-01-01 19:18:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-01 20:11:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-01-01 22:38:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-01-01 22:39:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-01-01 22:42:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-01-01 23:12:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-01 23:14:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-01 23:15:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-02 06:52:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,25,Human
+2026-01-02 06:53:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-02 06:54:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Low,Human
+2026-01-02 07:39:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,90,Human
+2026-01-02 08:01:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-01-02 08:02:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,35,Human
+2026-01-02 08:56:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-01-02 19:29:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-02 19:30:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-01-02 19:31:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-01-02 19:32:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-02 20:08:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-01-02 22:21:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-01-02 22:22:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-02 22:37:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-01-02 22:45:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-02 22:47:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-02 22:48:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-03 08:51:00,Hallway_Vacuum_1,Robot Vacuum,Cleaning State,Clean,Human
+2026-01-03 08:52:00,Hallway_Vacuum_1,Robot Vacuum,Suction Power,Standard,Human
+2026-01-03 14:38:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-01-03 14:39:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-01-03 19:15:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-03 19:16:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-01-03 19:17:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-01-03 19:18:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-03 22:38:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-01-03 22:39:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-01-03 22:40:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-03 23:08:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-03 23:10:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-03 23:11:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-04 14:25:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-01-04 14:26:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-04 18:00:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,50,Automation
+2026-01-04 19:19:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-04 19:20:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-01-04 19:21:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3500,Human
+2026-01-04 19:22:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-04 22:29:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-01-04 22:30:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-04 22:44:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-01-04 22:55:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-04 22:57:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-04 22:58:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-05 06:55:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-01-05 06:56:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-05 06:57:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-01-05 07:21:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,100,Human
+2026-01-05 07:59:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-01-05 08:00:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-01-05 08:52:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-01-05 19:14:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-05 19:15:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,65,Human
+2026-01-05 19:16:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3500,Human
+2026-01-05 19:17:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-05 19:47:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-01-05 22:31:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-01-05 22:32:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-05 22:39:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-01-05 23:09:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-05 23:11:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-05 23:12:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-06 06:48:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-01-06 06:49:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-06 06:50:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-01-06 07:26:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,70,Human
+2026-01-06 07:54:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-01-06 07:55:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-01-06 09:00:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-01-06 19:54:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-06 19:55:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,65,Human
+2026-01-06 19:56:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-01-06 19:57:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-01-06 19:57:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-06 22:32:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-01-06 22:33:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-01-06 22:44:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-01-06 22:52:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-06 22:54:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-06 22:55:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-07 07:11:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,25,Human
+2026-01-07 07:12:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-07 07:13:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-01-07 07:20:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,70,Human
+2026-01-07 08:08:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-01-07 08:09:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,30,Human
+2026-01-07 09:02:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-01-07 19:07:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-07 19:08:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-01-07 19:09:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-01-07 19:10:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-07 19:45:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-01-07 22:30:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-01-07 22:31:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-07 22:35:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-01-07 23:04:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-07 23:06:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-07 23:07:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-08 06:55:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-01-08 06:56:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-08 06:57:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Low,Human
+2026-01-08 07:22:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,90,Human
+2026-01-08 07:57:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-01-08 07:58:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,35,Human
+2026-01-08 08:58:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-01-08 19:05:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-08 19:06:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,75,Human
+2026-01-08 19:07:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-01-08 19:08:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-08 20:09:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-01-08 22:35:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-01-08 22:36:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-01-08 22:50:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-01-08 22:58:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-08 23:00:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-08 23:01:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-09 06:54:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-01-09 06:55:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-09 06:56:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-01-09 07:20:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,70,Human
+2026-01-09 08:00:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-01-09 08:01:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,30,Human
+2026-01-09 09:03:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-01-09 19:40:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-09 19:41:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-01-09 19:42:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-01-09 19:43:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-09 20:10:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-01-09 22:23:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-01-09 22:24:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-09 22:50:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-01-09 22:57:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-09 22:59:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-09 23:00:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-10 08:54:00,Hallway_Vacuum_1,Robot Vacuum,Cleaning State,Clean,Human
+2026-01-10 08:55:00,Hallway_Vacuum_1,Robot Vacuum,Suction Power,Standard,Human
+2026-01-10 14:21:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-01-10 14:22:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-10 18:00:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,50,Automation
+2026-01-10 19:32:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-10 19:33:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-01-10 19:34:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-01-10 19:35:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-10 22:31:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-01-10 22:32:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-10 22:40:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-01-10 22:51:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-10 22:53:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-10 22:54:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-11 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-01-11 14:34:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-01-11 14:35:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-01-11 19:35:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-11 19:36:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,65,Human
+2026-01-11 19:37:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-01-11 19:38:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-11 22:27:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-01-11 22:28:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-01-11 22:42:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-01-11 22:59:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-11 23:01:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-11 23:02:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-12 07:06:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-01-12 07:07:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-12 07:08:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-01-12 07:22:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,80,Human
+2026-01-12 08:02:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-01-12 08:03:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-01-12 09:06:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-01-12 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-01-12 19:28:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-12 19:29:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-01-12 19:30:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3500,Human
+2026-01-12 19:31:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-12 20:04:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-01-12 22:37:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-01-12 22:38:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-12 22:42:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-01-12 23:12:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-12 23:14:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-12 23:15:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-13 07:10:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-01-13 07:11:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-13 07:12:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-01-13 07:27:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,80,Human
+2026-01-13 07:56:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-01-13 07:57:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,30,Human
+2026-01-13 08:51:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-01-13 19:15:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-13 19:16:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,75,Human
+2026-01-13 19:17:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-01-13 19:18:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-13 19:55:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-01-13 22:26:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-01-13 22:27:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-13 22:40:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-01-13 22:54:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-13 22:56:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-13 22:57:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-14 06:56:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,25,Human
+2026-01-14 06:57:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-14 06:58:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Low,Human
+2026-01-14 07:23:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,100,Human
+2026-01-14 08:08:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-01-14 08:09:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-01-14 09:07:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-01-14 18:00:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,50,Automation
+2026-01-14 19:46:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-14 19:47:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,60,Human
+2026-01-14 19:48:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-01-14 19:49:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-14 19:51:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-01-14 22:38:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-01-14 22:39:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-14 22:49:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-14 22:51:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-14 22:52:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-14 22:54:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-01-15 07:10:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-01-15 07:11:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-15 07:12:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-01-15 07:33:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,100,Human
+2026-01-15 07:56:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-01-15 07:57:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-01-15 09:03:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-01-15 19:20:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-15 19:21:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,65,Human
+2026-01-15 19:22:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-01-15 19:23:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-15 20:08:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-01-15 22:21:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-01-15 22:22:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-15 22:45:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-01-15 23:14:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-15 23:16:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-15 23:17:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-16 07:11:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-01-16 07:12:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-16 07:13:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,High,Human
+2026-01-16 07:23:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,90,Human
+2026-01-16 07:57:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-01-16 07:58:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,35,Human
+2026-01-16 09:04:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-01-16 19:43:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-16 19:44:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,60,Human
+2026-01-16 19:45:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-01-16 19:46:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-16 19:47:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-01-16 22:29:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-01-16 22:30:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-01-16 22:36:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-01-16 22:51:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-16 22:53:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-16 22:54:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-17 08:53:00,Hallway_Vacuum_1,Robot Vacuum,Cleaning State,Clean,Human
+2026-01-17 08:54:00,Hallway_Vacuum_1,Robot Vacuum,Suction Power,Standard,Human
+2026-01-17 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-01-17 14:14:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-01-17 14:15:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-01-17 19:06:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-17 19:07:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-01-17 19:08:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3500,Human
+2026-01-17 19:09:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-17 22:33:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-01-17 22:34:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-01-17 22:46:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-17 22:47:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-01-17 22:48:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-17 22:49:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-18 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-01-18 14:22:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-01-18 14:23:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-18 18:00:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,50,Automation
+2026-01-18 19:46:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-18 19:47:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,80,Human
+2026-01-18 19:48:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-01-18 19:49:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-18 22:17:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-01-18 22:18:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-01-18 22:36:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-01-18 23:05:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-18 23:07:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-18 23:08:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-19 07:06:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-01-19 07:07:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-19 07:08:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-01-19 07:38:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,100,Human
+2026-01-19 08:07:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-01-19 08:08:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,35,Human
+2026-01-19 08:51:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-01-19 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-01-19 19:48:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-19 19:49:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,80,Human
+2026-01-19 19:50:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-01-19 19:51:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-19 19:56:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-01-19 22:38:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-01-19 22:39:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-01-19 22:54:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-01-19 23:13:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-19 23:15:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-19 23:16:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-20 06:52:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-01-20 06:53:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-20 06:54:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,High,Human
+2026-01-20 07:25:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,80,Human
+2026-01-20 07:51:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-01-20 07:52:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-01-20 08:54:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-01-20 19:05:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-20 19:06:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-01-20 19:07:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-01-20 19:08:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-20 20:11:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-01-20 22:37:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-01-20 22:38:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-20 22:41:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-01-20 23:02:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-20 23:04:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-20 23:05:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-21 06:58:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-01-21 06:59:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-21 07:00:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-01-21 07:24:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,90,Human
+2026-01-21 08:02:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-01-21 08:03:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-01-21 08:50:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-01-21 19:06:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-21 19:07:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-01-21 19:08:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-01-21 19:09:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-21 19:48:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-01-21 22:34:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-01-21 22:35:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-21 22:48:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-01-21 23:03:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-21 23:05:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-21 23:06:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-22 07:01:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-01-22 07:02:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-22 07:03:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-01-22 07:33:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,70,Human
+2026-01-22 07:53:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-01-22 07:54:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,35,Human
+2026-01-22 08:54:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-01-22 19:21:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-22 19:22:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-01-22 19:23:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-01-22 19:24:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-22 20:10:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-01-22 22:40:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-01-22 22:41:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-22 22:43:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-01-22 23:01:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-22 23:03:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-22 23:04:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-23 07:08:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-01-23 07:09:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-23 07:10:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-01-23 07:39:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,100,Human
+2026-01-23 07:50:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-01-23 07:51:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,35,Human
+2026-01-23 08:54:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-01-23 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-01-23 18:00:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,50,Automation
+2026-01-23 19:20:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-23 19:21:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,75,Human
+2026-01-23 19:22:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-01-23 19:23:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-23 20:10:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-01-23 22:21:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-01-23 22:22:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-01-23 22:41:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-01-23 23:11:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-23 23:13:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-23 23:14:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-24 08:52:00,Hallway_Vacuum_1,Robot Vacuum,Cleaning State,Clean,Human
+2026-01-24 08:53:00,Hallway_Vacuum_1,Robot Vacuum,Suction Power,Standard,Human
+2026-01-24 14:17:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-01-24 14:18:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-01-24 18:00:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,50,Automation
+2026-01-24 19:09:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-24 19:10:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-01-24 19:11:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3500,Human
+2026-01-24 19:12:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-24 22:24:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-01-24 22:25:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-01-24 22:37:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-01-24 22:52:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-24 22:54:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-24 22:55:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-25 14:20:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-01-25 14:21:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-25 19:46:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-25 19:47:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,80,Human
+2026-01-25 19:48:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-01-25 19:49:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-25 22:37:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-01-25 22:37:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-01-25 22:38:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-25 23:11:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-25 23:13:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-25 23:14:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-26 07:05:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-01-26 07:06:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-26 07:07:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-01-26 07:34:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,80,Human
+2026-01-26 08:02:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-01-26 08:03:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-01-26 08:59:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-01-26 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-01-26 19:20:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-26 19:21:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,75,Human
+2026-01-26 19:22:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-01-26 19:23:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-26 20:03:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-01-26 22:33:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-01-26 22:34:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-26 22:53:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-01-26 23:11:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-26 23:13:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-26 23:14:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-27 07:10:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-01-27 07:11:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-27 07:12:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-01-27 07:21:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,80,Human
+2026-01-27 08:01:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-01-27 08:02:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,35,Human
+2026-01-27 09:01:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-01-27 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-01-27 18:00:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,50,Automation
+2026-01-27 19:36:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-27 19:37:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-01-27 19:38:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-01-27 19:39:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-27 19:49:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-01-27 22:30:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-01-27 22:31:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-27 22:40:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-01-27 22:51:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-27 22:53:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-27 22:54:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-28 07:02:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-01-28 07:03:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-28 07:04:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Low,Human
+2026-01-28 07:28:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,90,Human
+2026-01-28 07:58:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-01-28 07:59:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,35,Human
+2026-01-28 09:05:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-01-28 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-01-28 19:46:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-28 19:47:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-01-28 19:48:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-01-28 19:49:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-28 20:05:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-01-28 22:40:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-01-28 22:43:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-01-28 22:44:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-28 23:14:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-28 23:16:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-28 23:17:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-29 07:04:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-01-29 07:05:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-29 07:06:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Low,Human
+2026-01-29 07:39:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,80,Human
+2026-01-29 08:01:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-01-29 08:02:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-01-29 08:50:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-01-29 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-01-29 19:45:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-01-29 19:51:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-29 19:52:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,65,Human
+2026-01-29 19:53:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-01-29 19:54:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-29 22:39:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-01-29 22:42:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-01-29 22:43:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-01-29 23:01:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-29 23:03:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-29 23:04:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-30 06:58:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-01-30 06:59:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-30 07:00:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-01-30 07:27:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,80,Human
+2026-01-30 08:05:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-01-30 08:06:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-01-30 09:00:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-01-30 19:37:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-30 19:38:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-01-30 19:39:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-01-30 19:40:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-30 19:57:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-01-30 22:22:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-01-30 22:23:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-30 22:35:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-01-30 22:49:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-30 22:51:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-30 22:52:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-31 09:07:00,Hallway_Vacuum_1,Robot Vacuum,Cleaning State,Clean,Human
+2026-01-31 09:08:00,Hallway_Vacuum_1,Robot Vacuum,Suction Power,Standard,Human
+2026-01-31 14:35:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-01-31 14:36:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-31 19:12:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-01-31 19:13:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-01-31 19:14:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-01-31 19:15:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-01-31 22:32:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-01-31 22:33:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-01-31 22:40:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-01-31 22:48:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-01-31 22:50:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-01-31 22:51:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-01 14:28:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-02-01 14:29:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-01 19:19:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-01 19:20:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,80,Human
+2026-02-01 19:21:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3500,Human
+2026-02-01 19:22:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-01 22:15:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-02-01 22:16:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-02-01 22:50:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-02-01 23:09:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-01 23:11:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-01 23:12:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-02 06:54:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,25,Human
+2026-02-02 06:55:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-02 06:56:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-02-02 07:35:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,70,Human
+2026-02-02 07:50:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-02-02 07:51:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-02-02 09:00:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-02-02 19:12:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-02 19:13:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,75,Human
+2026-02-02 19:14:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-02-02 19:15:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-02 19:51:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-02-02 22:43:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-02-02 22:44:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-02 22:44:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-02-02 22:45:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-02 22:47:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-02 22:48:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-03 06:56:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-02-03 06:57:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-03 06:58:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Low,Human
+2026-02-03 07:33:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,70,Human
+2026-02-03 07:54:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-02-03 07:55:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,30,Human
+2026-02-03 08:56:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-02-03 19:32:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-03 19:33:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-02-03 19:34:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-02-03 19:35:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-03 19:50:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-02-03 22:27:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-02-03 22:28:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-03 22:46:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-02-03 22:48:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-03 22:50:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-03 22:51:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-04 06:49:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-02-04 06:50:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-04 06:51:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-02-04 07:26:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,90,Human
+2026-02-04 08:01:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-02-04 08:02:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-02-04 08:50:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-02-04 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-02-04 18:00:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,50,Automation
+2026-02-04 19:14:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-04 19:15:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,80,Human
+2026-02-04 19:16:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-02-04 19:17:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-04 19:46:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-02-04 22:20:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-02-04 22:21:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-02-04 22:35:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-02-04 23:11:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-04 23:13:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-04 23:14:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-05 07:11:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-02-05 07:12:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-05 07:13:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-02-05 07:29:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,70,Human
+2026-02-05 08:02:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-02-05 08:03:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-02-05 09:09:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-02-05 19:06:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-05 19:07:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,80,Human
+2026-02-05 19:08:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-02-05 19:09:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-05 19:47:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-02-05 22:31:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-02-05 22:32:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-05 22:36:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-02-05 22:55:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-05 22:57:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-05 22:58:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-06 06:57:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-02-06 06:58:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-06 06:59:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-02-06 07:35:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,70,Human
+2026-02-06 07:57:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-02-06 07:58:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-02-06 08:55:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-02-06 18:00:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,50,Automation
+2026-02-06 19:25:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-06 19:26:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-02-06 19:27:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-02-06 19:28:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-06 19:57:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-02-06 22:32:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-02-06 22:33:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-06 22:41:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-02-06 23:00:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-06 23:02:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-06 23:03:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-07 08:53:00,Hallway_Vacuum_1,Robot Vacuum,Cleaning State,Clean,Human
+2026-02-07 08:54:00,Hallway_Vacuum_1,Robot Vacuum,Suction Power,Standard,Human
+2026-02-07 14:35:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-02-07 14:36:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-07 19:54:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-07 19:55:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,60,Human
+2026-02-07 19:56:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-02-07 19:57:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-07 22:36:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-02-07 22:37:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-02-07 22:46:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-07 22:48:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-07 22:49:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-07 22:52:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-02-08 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-02-08 14:40:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-02-08 14:41:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-02-08 19:12:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-08 19:13:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-02-08 19:14:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-02-08 19:15:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-08 22:16:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-02-08 22:17:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-08 22:37:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-02-08 22:53:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-08 22:55:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-08 22:56:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-09 06:55:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-02-09 06:56:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-09 06:57:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-02-09 07:34:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,80,Human
+2026-02-09 07:58:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-02-09 07:59:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,35,Human
+2026-02-09 09:08:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-02-09 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-02-09 19:54:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-02-09 19:54:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-09 19:55:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,80,Human
+2026-02-09 19:56:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-02-09 19:57:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-09 22:22:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-02-09 22:23:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-09 22:43:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-02-09 23:11:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-09 23:13:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-09 23:14:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-10 07:06:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,25,Human
+2026-02-10 07:07:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-10 07:08:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-02-10 07:20:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,70,Human
+2026-02-10 08:06:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-02-10 08:07:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-02-10 08:53:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-02-10 19:26:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-10 19:27:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,75,Human
+2026-02-10 19:28:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-02-10 19:29:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-10 20:00:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-02-10 22:28:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-02-10 22:29:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-10 22:37:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-02-10 23:10:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-10 23:12:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-10 23:13:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-11 07:04:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-02-11 07:05:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-11 07:06:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-02-11 07:34:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,80,Human
+2026-02-11 08:09:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-02-11 08:10:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-02-11 09:07:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-02-11 19:10:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-11 19:11:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-02-11 19:12:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-02-11 19:13:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-11 19:54:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-02-11 22:23:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-02-11 22:24:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-11 22:44:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-02-11 22:59:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-11 23:01:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-11 23:02:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-12 07:04:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-02-12 07:05:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-12 07:06:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Low,Human
+2026-02-12 07:22:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,80,Human
+2026-02-12 08:08:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-02-12 08:09:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-02-12 08:58:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-02-12 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-02-12 19:46:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-02-12 19:50:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-12 19:51:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-02-12 19:52:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-02-12 19:53:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-12 22:22:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-02-12 22:23:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-02-12 22:48:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-02-12 23:06:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-12 23:08:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-12 23:09:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-13 06:54:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-02-13 06:55:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-13 06:56:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,High,Human
+2026-02-13 07:30:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,70,Human
+2026-02-13 08:02:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-02-13 08:03:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,30,Human
+2026-02-13 08:51:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-02-13 19:08:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-13 19:09:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-02-13 19:10:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-02-13 19:11:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-13 20:14:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-02-13 22:39:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-02-13 22:40:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-02-13 22:41:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-02-13 22:52:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-13 22:54:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-13 22:55:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-14 08:50:00,Hallway_Vacuum_1,Robot Vacuum,Cleaning State,Clean,Human
+2026-02-14 08:51:00,Hallway_Vacuum_1,Robot Vacuum,Suction Power,Standard,Human
+2026-02-14 14:33:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-02-14 14:34:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-02-14 19:15:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-14 19:16:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-02-14 19:17:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-02-14 19:18:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-14 22:22:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-02-14 22:23:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-02-14 22:38:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-02-14 23:07:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-14 23:09:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-14 23:10:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-15 14:41:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-02-15 14:42:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-02-15 19:51:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-15 19:52:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,75,Human
+2026-02-15 19:53:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-02-15 19:54:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-15 22:39:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-02-15 22:40:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-15 22:47:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-02-15 23:14:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-15 23:16:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-15 23:17:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-16 06:55:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-02-16 06:56:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-16 06:57:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-02-16 07:29:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,90,Human
+2026-02-16 08:07:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-02-16 08:08:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,30,Human
+2026-02-16 09:01:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-02-16 19:34:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-16 19:35:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,75,Human
+2026-02-16 19:36:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3500,Human
+2026-02-16 19:37:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-16 20:09:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-02-16 22:36:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-02-16 22:37:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-16 22:50:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-16 22:52:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-16 22:53:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-16 22:53:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-02-17 07:10:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-02-17 07:11:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-17 07:12:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-02-17 07:37:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,100,Human
+2026-02-17 08:02:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-02-17 08:03:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-02-17 09:08:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-02-17 19:53:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-17 19:54:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-02-17 19:55:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-02-17 19:56:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-17 19:59:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-02-17 22:21:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-02-17 22:22:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-02-17 22:37:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-02-17 23:14:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-17 23:16:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-17 23:17:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-18 06:58:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,25,Human
+2026-02-18 06:59:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-18 07:00:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-02-18 07:25:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,100,Human
+2026-02-18 07:59:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-02-18 08:00:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,30,Human
+2026-02-18 09:01:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-02-18 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-02-18 19:28:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-18 19:29:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,60,Human
+2026-02-18 19:30:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-02-18 19:31:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-18 20:12:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-02-18 22:19:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-02-18 22:20:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-18 22:50:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-02-18 23:03:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-18 23:05:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-18 23:06:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-19 06:51:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,25,Human
+2026-02-19 06:52:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-19 06:53:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-02-19 07:32:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,70,Human
+2026-02-19 07:53:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-02-19 07:54:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-02-19 09:02:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-02-19 19:45:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-19 19:46:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,60,Human
+2026-02-19 19:47:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-02-19 19:48:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-19 20:06:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-02-19 22:23:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-02-19 22:24:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-19 22:39:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-02-19 23:10:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-19 23:12:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-19 23:13:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-20 07:01:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-02-20 07:02:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-20 07:03:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Low,Human
+2026-02-20 07:20:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,80,Human
+2026-02-20 08:07:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-02-20 08:08:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,30,Human
+2026-02-20 09:00:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-02-20 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-02-20 19:13:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-20 19:14:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-02-20 19:15:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-02-20 19:16:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-20 19:49:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-02-20 22:33:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-02-20 22:34:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-20 22:40:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-02-20 22:45:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-20 22:47:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-20 22:48:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-21 08:57:00,Hallway_Vacuum_1,Robot Vacuum,Cleaning State,Clean,Human
+2026-02-21 08:58:00,Hallway_Vacuum_1,Robot Vacuum,Suction Power,Standard,Human
+2026-02-21 14:28:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-02-21 14:29:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-21 19:43:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-21 19:44:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-02-21 19:45:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-02-21 19:46:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-21 22:24:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-02-21 22:25:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-02-21 22:45:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-02-21 23:03:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-21 23:05:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-21 23:06:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-22 14:14:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-02-22 14:15:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-02-22 19:24:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-22 19:25:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,75,Human
+2026-02-22 19:26:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-02-22 19:27:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-22 22:18:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-02-22 22:19:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-02-22 22:37:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-02-22 23:07:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-22 23:09:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-22 23:10:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-23 07:07:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-02-23 07:08:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-23 07:09:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,High,Human
+2026-02-23 07:36:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,100,Human
+2026-02-23 07:57:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-02-23 07:58:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,30,Human
+2026-02-23 09:05:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-02-23 19:08:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-23 19:09:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,60,Human
+2026-02-23 19:10:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-02-23 19:11:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-23 20:00:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-02-23 22:28:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-02-23 22:29:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-02-23 22:54:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-02-23 23:12:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-23 23:14:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-23 23:15:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-24 07:05:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-02-24 07:06:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-24 07:07:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Low,Human
+2026-02-24 07:33:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,90,Human
+2026-02-24 08:08:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-02-24 08:09:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-02-24 09:01:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-02-24 19:29:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-24 19:30:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,80,Human
+2026-02-24 19:31:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-02-24 19:32:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-24 20:00:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-02-24 22:33:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-02-24 22:34:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-24 22:48:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-02-24 23:09:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-24 23:11:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-24 23:12:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-25 07:10:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,25,Human
+2026-02-25 07:11:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-25 07:12:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-02-25 07:24:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,80,Human
+2026-02-25 07:55:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-02-25 07:56:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,35,Human
+2026-02-25 09:01:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-02-25 19:31:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-25 19:32:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,75,Human
+2026-02-25 19:33:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-02-25 19:34:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-25 20:00:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-02-25 22:20:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-02-25 22:21:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-02-25 22:53:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-02-25 23:14:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-25 23:16:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-25 23:17:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-26 07:11:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,24,Human
+2026-02-26 07:12:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-26 07:13:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Low,Human
+2026-02-26 07:20:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,70,Human
+2026-02-26 08:04:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-02-26 08:05:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,35,Human
+2026-02-26 09:08:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-02-26 18:00:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,50,Automation
+2026-02-26 19:29:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-26 19:30:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-02-26 19:31:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-02-26 19:32:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-26 19:45:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-02-26 22:34:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-02-26 22:35:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-02-26 22:49:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-02-26 23:08:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-26 23:10:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-26 23:11:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-27 06:55:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,25,Human
+2026-02-27 06:56:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-27 06:57:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,High,Human
+2026-02-27 07:26:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,90,Human
+2026-02-27 07:52:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-02-27 07:53:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,30,Human
+2026-02-27 09:06:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-02-27 19:42:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-27 19:43:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-02-27 19:44:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-02-27 19:45:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-27 20:07:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-02-27 22:38:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-02-27 22:39:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-02-27 22:48:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-02-27 23:11:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-27 23:13:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-27 23:14:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-28 08:55:00,Hallway_Vacuum_1,Robot Vacuum,Cleaning State,Clean,Human
+2026-02-28 08:56:00,Hallway_Vacuum_1,Robot Vacuum,Suction Power,Max,Human
+2026-02-28 14:15:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-02-28 14:16:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-02-28 19:45:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-02-28 19:46:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,65,Human
+2026-02-28 19:47:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3500,Human
+2026-02-28 19:48:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-02-28 22:31:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-02-28 22:32:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-02-28 22:52:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-02-28 23:01:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-02-28 23:03:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-02-28 23:04:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-01 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-03-01 14:39:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,20,Human
+2026-03-01 14:40:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-03-01 19:14:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-01 19:15:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,60,Human
+2026-03-01 19:16:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-03-01 19:17:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-01 22:33:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-03-01 22:34:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-03-01 22:54:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-03-01 22:59:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-01 23:01:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-01 23:02:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-02 07:02:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-03-02 07:03:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-02 07:04:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-03-02 07:27:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,100,Human
+2026-03-02 08:09:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-03-02 08:10:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,35,Human
+2026-03-02 09:01:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-03-02 19:35:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-02 19:36:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-03-02 19:37:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-03-02 19:38:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-02 19:48:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-03-02 22:35:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-03-02 22:38:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-03-02 22:39:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-02 23:03:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-02 23:05:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-02 23:06:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-03 07:02:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-03-03 07:03:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-03 07:04:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Low,Human
+2026-03-03 07:23:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,70,Human
+2026-03-03 08:03:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-03-03 08:04:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,30,Human
+2026-03-03 08:53:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-03-03 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-03-03 19:45:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-03 19:46:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-03-03 19:47:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-03-03 19:48:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-03 20:00:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-03-03 22:29:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-03-03 22:30:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-03 22:46:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-03-03 22:48:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-03 22:50:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-03 22:51:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-04 06:55:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,21,Human
+2026-03-04 06:56:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-04 06:57:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-03-04 07:30:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,80,Human
+2026-03-04 07:54:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-03-04 07:55:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,30,Human
+2026-03-04 08:57:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-03-04 19:18:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-04 19:19:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,80,Human
+2026-03-04 19:20:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-03-04 19:21:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-04 20:07:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-03-04 22:38:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-03-04 22:39:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-03-04 22:49:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-03-04 22:58:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-04 23:00:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-04 23:01:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-05 06:54:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-03-05 06:55:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-05 06:56:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-03-05 07:24:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,80,Human
+2026-03-05 08:02:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-03-05 08:03:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,35,Human
+2026-03-05 08:52:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-03-05 19:34:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-05 19:35:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,60,Human
+2026-03-05 19:36:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-03-05 19:37:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-05 19:53:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-03-05 22:39:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-03-05 22:42:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-03-05 22:43:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-03-05 22:56:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-05 22:58:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-05 22:59:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-06 07:02:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-03-06 07:03:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-06 07:04:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-03-06 07:32:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,100,Human
+2026-03-06 08:05:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-03-06 08:06:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-03-06 09:08:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-03-06 19:23:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-06 19:24:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,75,Human
+2026-03-06 19:25:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-03-06 19:26:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-06 20:09:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-03-06 22:24:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-03-06 22:25:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-06 22:50:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-03-06 23:13:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-06 23:15:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-06 23:16:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-07 09:08:00,Hallway_Vacuum_1,Robot Vacuum,Cleaning State,Clean,Human
+2026-03-07 09:09:00,Hallway_Vacuum_1,Robot Vacuum,Suction Power,Max,Human
+2026-03-07 14:18:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,21,Human
+2026-03-07 14:19:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-07 19:43:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-07 19:44:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,80,Human
+2026-03-07 19:45:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-03-07 19:46:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-07 22:30:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-03-07 22:31:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-07 22:41:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-03-07 23:11:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-07 23:13:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-07 23:14:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-08 14:16:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-03-08 14:17:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-08 19:28:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-08 19:29:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-03-08 19:30:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-03-08 19:31:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-08 22:31:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-03-08 22:32:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-08 22:54:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-03-08 22:55:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-08 22:57:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-08 22:58:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-09 06:52:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,21,Human
+2026-03-09 06:53:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-09 06:54:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-03-09 07:39:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,100,Human
+2026-03-09 07:54:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-03-09 07:55:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-03-09 09:08:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-03-09 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-03-09 19:05:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-09 19:06:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-03-09 19:07:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-03-09 19:08:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-09 19:50:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-03-09 22:28:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-03-09 22:29:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-09 22:39:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-03-09 23:12:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-09 23:14:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-09 23:15:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-10 07:01:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,21,Human
+2026-03-10 07:02:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-10 07:03:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Low,Human
+2026-03-10 07:32:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,70,Human
+2026-03-10 07:51:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-03-10 07:52:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,35,Human
+2026-03-10 09:06:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-03-10 19:35:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-10 19:36:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,80,Human
+2026-03-10 19:37:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-03-10 19:38:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-10 20:10:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-03-10 22:26:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-03-10 22:27:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-03-10 22:44:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-03-10 23:08:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-10 23:10:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-10 23:11:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-11 07:08:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-03-11 07:09:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-11 07:10:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,High,Human
+2026-03-11 07:31:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,100,Human
+2026-03-11 08:00:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-03-11 08:01:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-03-11 08:51:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-03-11 19:43:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-11 19:44:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-03-11 19:45:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-03-11 19:46:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-11 20:01:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-03-11 22:27:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-03-11 22:28:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-03-11 22:40:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-03-11 22:48:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-11 22:50:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-11 22:51:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-12 06:54:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-03-12 06:55:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-12 06:56:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-03-12 07:21:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,100,Human
+2026-03-12 07:50:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-03-12 07:51:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,30,Human
+2026-03-12 08:52:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-03-12 19:15:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-12 19:16:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-03-12 19:17:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-03-12 19:18:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-12 20:00:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-03-12 22:37:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-03-12 22:38:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-12 22:52:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-03-12 23:08:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-12 23:10:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-12 23:11:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-13 07:04:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,21,Human
+2026-03-13 07:05:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-13 07:06:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-03-13 07:38:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,80,Human
+2026-03-13 08:06:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-03-13 08:07:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,35,Human
+2026-03-13 09:09:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-03-13 18:00:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,50,Automation
+2026-03-13 19:15:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-13 19:16:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,80,Human
+2026-03-13 19:17:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3500,Human
+2026-03-13 19:18:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-13 19:49:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-03-13 22:17:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-03-13 22:18:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-03-13 22:36:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-03-13 22:45:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-13 22:47:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-13 22:48:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-14 08:52:00,Hallway_Vacuum_1,Robot Vacuum,Cleaning State,Clean,Human
+2026-03-14 08:53:00,Hallway_Vacuum_1,Robot Vacuum,Suction Power,Standard,Human
+2026-03-14 14:24:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,20,Human
+2026-03-14 14:25:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-14 19:29:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-14 19:30:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-03-14 19:31:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3500,Human
+2026-03-14 19:32:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-14 22:20:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-03-14 22:21:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-14 22:54:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-03-14 23:14:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-14 23:16:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-14 23:17:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-15 14:47:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,20,Human
+2026-03-15 14:48:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-03-15 19:22:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-15 19:23:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,80,Human
+2026-03-15 19:24:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-03-15 19:25:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-15 22:40:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-03-15 22:40:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-03-15 22:41:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-03-15 23:08:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-15 23:10:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-15 23:11:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-16 06:52:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-03-16 06:53:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-16 06:54:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-03-16 07:26:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,80,Human
+2026-03-16 07:57:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-03-16 07:58:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,35,Human
+2026-03-16 09:03:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-03-16 19:31:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-16 19:32:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,65,Human
+2026-03-16 19:33:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-03-16 19:34:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-16 20:00:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-03-16 22:35:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-03-16 22:36:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-16 22:42:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-03-16 22:56:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-16 22:58:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-16 22:59:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-17 07:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-03-17 07:01:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-17 07:02:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Low,Human
+2026-03-17 07:26:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,90,Human
+2026-03-17 08:05:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-03-17 08:06:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-03-17 08:53:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-03-17 19:07:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-17 19:08:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,75,Human
+2026-03-17 19:09:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-03-17 19:10:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-17 19:51:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-03-17 22:26:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-03-17 22:27:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-17 22:45:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-03-17 23:14:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-17 23:16:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-17 23:17:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-18 06:56:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,21,Human
+2026-03-18 06:57:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-18 06:58:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,High,Human
+2026-03-18 07:31:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,70,Human
+2026-03-18 07:51:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-03-18 07:52:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-03-18 09:08:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-03-18 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-03-18 19:54:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-18 19:55:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,65,Human
+2026-03-18 19:56:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3500,Human
+2026-03-18 19:57:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-18 20:04:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-03-18 22:24:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-03-18 22:25:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-18 22:53:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-03-18 23:12:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-18 23:14:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-18 23:15:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-19 06:53:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-03-19 06:54:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-19 06:55:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,High,Human
+2026-03-19 07:34:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,100,Human
+2026-03-19 07:54:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-03-19 07:55:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-03-19 08:55:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-03-19 19:33:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-19 19:34:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,60,Human
+2026-03-19 19:35:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-03-19 19:36:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-19 19:54:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-03-19 22:37:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-03-19 22:40:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-03-19 22:41:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-03-19 22:58:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-19 23:00:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-19 23:01:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-20 07:04:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-03-20 07:05:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-20 07:06:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-03-20 07:34:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,80,Human
+2026-03-20 08:02:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-03-20 08:03:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-03-20 08:56:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-03-20 19:24:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-20 19:25:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,65,Human
+2026-03-20 19:26:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3500,Human
+2026-03-20 19:27:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-20 19:45:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-03-20 22:31:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-03-20 22:32:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-20 22:37:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-03-20 22:50:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-20 22:52:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-20 22:53:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-21 08:57:00,Hallway_Vacuum_1,Robot Vacuum,Cleaning State,Clean,Human
+2026-03-21 08:58:00,Hallway_Vacuum_1,Robot Vacuum,Suction Power,Standard,Human
+2026-03-21 14:11:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-03-21 14:12:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-21 19:19:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-21 19:20:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,80,Human
+2026-03-21 19:21:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-03-21 19:22:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-21 22:25:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-03-21 22:26:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-03-21 22:38:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-03-21 23:12:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-21 23:14:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-21 23:15:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-22 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-03-22 14:34:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-03-22 14:35:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-22 19:48:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-22 19:49:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,75,Human
+2026-03-22 19:50:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-03-22 19:51:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-22 22:15:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-03-22 22:16:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-22 22:52:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-03-22 23:13:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-22 23:15:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-22 23:16:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-23 06:48:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-03-23 06:49:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-23 06:50:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Low,Human
+2026-03-23 07:24:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,90,Human
+2026-03-23 08:07:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-03-23 08:08:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,35,Human
+2026-03-23 08:54:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-03-23 19:50:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-23 19:51:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,80,Human
+2026-03-23 19:52:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-03-23 19:53:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-23 19:57:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-03-23 22:38:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-03-23 22:39:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-23 22:54:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-03-23 22:55:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-23 22:57:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-23 22:58:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-24 06:48:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-03-24 06:49:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-24 06:50:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,High,Human
+2026-03-24 07:38:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,70,Human
+2026-03-24 08:07:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-03-24 08:08:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,30,Human
+2026-03-24 09:03:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-03-24 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-03-24 19:32:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-24 19:33:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,60,Human
+2026-03-24 19:34:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-03-24 19:35:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-24 19:49:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-03-24 22:30:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-03-24 22:31:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-24 22:36:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-03-24 22:47:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-24 22:49:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-24 22:50:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-25 07:08:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-03-25 07:09:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-25 07:10:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-03-25 07:27:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,80,Human
+2026-03-25 08:05:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-03-25 08:06:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-03-25 08:57:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-03-25 19:40:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-25 19:41:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,75,Human
+2026-03-25 19:42:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-03-25 19:43:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-25 19:57:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-03-25 22:42:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-03-25 22:43:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-25 22:53:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-03-25 23:04:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-25 23:06:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-25 23:07:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-26 07:10:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-03-26 07:11:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-26 07:12:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-03-26 07:30:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,90,Human
+2026-03-26 08:03:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-03-26 08:04:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-03-26 09:07:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-03-26 18:00:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,50,Automation
+2026-03-26 19:21:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-26 19:22:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-03-26 19:23:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3500,Human
+2026-03-26 19:24:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-26 19:52:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-03-26 22:17:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-03-26 22:18:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-26 22:39:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-03-26 22:46:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-26 22:48:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-26 22:49:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-27 07:11:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-03-27 07:12:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-27 07:13:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-03-27 07:24:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,100,Human
+2026-03-27 08:05:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-03-27 08:06:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,30,Human
+2026-03-27 08:56:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-03-27 18:00:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,50,Automation
+2026-03-27 19:44:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-27 19:45:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-03-27 19:46:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-03-27 19:47:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-27 20:02:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-03-27 22:39:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-03-27 22:40:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-27 22:50:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-03-27 23:04:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-27 23:06:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-27 23:07:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-28 09:07:00,Hallway_Vacuum_1,Robot Vacuum,Cleaning State,Clean,Human
+2026-03-28 09:08:00,Hallway_Vacuum_1,Robot Vacuum,Suction Power,Standard,Human
+2026-03-28 14:13:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-03-28 14:14:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-28 19:32:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-28 19:33:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,80,Human
+2026-03-28 19:34:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-03-28 19:35:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-28 22:38:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-03-28 22:43:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-03-28 22:44:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-28 22:48:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-28 22:50:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-28 22:51:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-29 14:17:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-03-29 14:18:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-03-29 19:05:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-29 19:06:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-03-29 19:07:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3500,Human
+2026-03-29 19:08:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-29 22:31:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-03-29 22:32:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-29 22:39:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-03-29 23:14:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-29 23:16:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-29 23:17:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-30 06:59:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-03-30 07:00:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-30 07:01:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-03-30 07:33:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,90,Human
+2026-03-30 07:56:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-03-30 07:57:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-03-30 08:51:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-03-30 19:29:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-30 19:30:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,60,Human
+2026-03-30 19:31:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-03-30 19:32:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-30 19:58:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-03-30 22:38:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-03-30 22:39:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-03-30 22:40:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-03-30 23:11:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-30 23:13:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-30 23:14:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-31 06:57:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-03-31 06:58:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-03-31 06:59:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,High,Human
+2026-03-31 07:30:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,90,Human
+2026-03-31 07:58:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-03-31 07:59:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-03-31 09:05:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-03-31 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-03-31 19:36:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-03-31 19:37:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-03-31 19:38:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-03-31 19:39:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-03-31 19:47:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-03-31 22:22:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-03-31 22:23:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-03-31 22:44:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-03-31 23:12:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-03-31 23:14:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-03-31 23:15:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-01 06:59:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-04-01 07:00:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-01 07:01:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,High,Human
+2026-04-01 07:36:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,90,Human
+2026-04-01 07:59:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-04-01 08:00:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,30,Human
+2026-04-01 09:01:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-04-01 18:00:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,50,Automation
+2026-04-01 19:46:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-01 19:47:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-04-01 19:48:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-04-01 19:49:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-01 20:09:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-04-01 22:33:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-04-01 22:34:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-01 22:35:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-04-01 22:47:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-01 22:49:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-01 22:50:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-02 07:04:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-04-02 07:05:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-02 07:06:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-04-02 07:33:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,100,Human
+2026-04-02 08:03:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-04-02 08:04:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-04-02 09:01:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-04-02 19:07:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-02 19:08:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,65,Human
+2026-04-02 19:09:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-04-02 19:10:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-02 20:12:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-04-02 22:19:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-04-02 22:20:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-02 22:44:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-04-02 22:54:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-02 22:56:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-02 22:57:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-03 06:52:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-04-03 06:53:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-03 06:54:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,High,Human
+2026-04-03 07:23:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,70,Human
+2026-04-03 08:08:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-04-03 08:09:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-04-03 09:04:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-04-03 19:34:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-03 19:35:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,65,Human
+2026-04-03 19:36:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-04-03 19:37:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-03 20:11:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-04-03 22:23:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-04-03 22:24:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-04-03 22:46:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-04-03 22:50:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-03 22:52:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-03 22:53:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-04 09:06:00,Hallway_Vacuum_1,Robot Vacuum,Cleaning State,Clean,Human
+2026-04-04 09:07:00,Hallway_Vacuum_1,Robot Vacuum,Suction Power,Standard,Human
+2026-04-04 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-04-04 14:23:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,21,Human
+2026-04-04 14:24:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-04-04 19:11:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-04 19:12:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-04-04 19:13:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-04-04 19:14:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-04 22:26:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-04-04 22:27:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-04 22:47:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-04 22:49:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-04 22:50:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-04 22:53:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-04-05 14:17:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,21,Human
+2026-04-05 14:18:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-05 19:48:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-05 19:49:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-04-05 19:50:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3500,Human
+2026-04-05 19:51:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-05 22:19:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-04-05 22:20:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-05 22:48:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-04-05 22:59:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-05 23:01:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-05 23:02:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-06 07:04:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-04-06 07:05:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-06 07:06:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-04-06 07:31:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,100,Human
+2026-04-06 08:01:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-04-06 08:02:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,30,Human
+2026-04-06 08:56:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-04-06 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-04-06 19:51:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-06 19:52:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-04-06 19:53:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3500,Human
+2026-04-06 19:54:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-06 20:05:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-04-06 22:30:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-04-06 22:31:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-04-06 22:48:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-04-06 23:08:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-06 23:10:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-06 23:11:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-07 06:48:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-04-07 06:49:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-07 06:50:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-04-07 07:31:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,80,Human
+2026-04-07 07:53:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-04-07 07:54:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,35,Human
+2026-04-07 09:02:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-04-07 19:15:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-07 19:16:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,60,Human
+2026-04-07 19:17:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3500,Human
+2026-04-07 19:18:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-07 19:56:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-04-07 22:36:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-04-07 22:37:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-07 22:47:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-04-07 22:53:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-07 22:55:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-07 22:56:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-08 06:54:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-04-08 06:55:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-08 06:56:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,High,Human
+2026-04-08 07:30:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,80,Human
+2026-04-08 07:59:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-04-08 08:00:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-04-08 09:01:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-04-08 19:08:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-08 19:09:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-04-08 19:10:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-04-08 19:11:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-08 20:05:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-04-08 22:43:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-04-08 22:44:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-04-08 22:45:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-08 23:08:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-08 23:10:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-08 23:11:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-09 06:58:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-04-09 06:59:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-09 07:00:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-04-09 07:28:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,80,Human
+2026-04-09 07:55:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-04-09 07:56:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-04-09 08:59:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-04-09 18:00:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,50,Automation
+2026-04-09 19:10:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-09 19:11:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,60,Human
+2026-04-09 19:12:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-04-09 19:13:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-09 19:58:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-04-09 22:25:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-04-09 22:26:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-04-09 22:48:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-04-09 23:04:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-09 23:06:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-09 23:07:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-10 06:51:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-04-10 06:52:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-10 06:53:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,High,Human
+2026-04-10 07:28:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,90,Human
+2026-04-10 07:50:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-04-10 07:51:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,35,Human
+2026-04-10 09:00:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-04-10 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-04-10 19:53:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-10 19:54:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,75,Human
+2026-04-10 19:55:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-04-10 19:56:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-10 20:05:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-04-10 22:23:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-04-10 22:24:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-10 22:49:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-04-10 23:00:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-10 23:02:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-10 23:03:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-11 09:03:00,Hallway_Vacuum_1,Robot Vacuum,Cleaning State,Clean,Human
+2026-04-11 09:04:00,Hallway_Vacuum_1,Robot Vacuum,Suction Power,Standard,Human
+2026-04-11 14:47:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,20,Human
+2026-04-11 14:48:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-11 19:45:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-11 19:46:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-04-11 19:47:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-04-11 19:48:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-11 22:44:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-04-11 22:45:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-11 22:47:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-04-11 23:10:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-11 23:12:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-11 23:13:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-12 14:29:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-04-12 14:30:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-12 19:34:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-12 19:35:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,60,Human
+2026-04-12 19:36:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-04-12 19:37:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-12 22:23:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-04-12 22:24:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-12 22:44:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-04-12 23:07:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-12 23:09:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-12 23:10:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-13 07:09:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-04-13 07:10:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-13 07:11:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Low,Human
+2026-04-13 07:30:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,100,Human
+2026-04-13 07:54:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-04-13 07:55:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,35,Human
+2026-04-13 09:02:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-04-13 19:06:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-13 19:07:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,75,Human
+2026-04-13 19:08:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3500,Human
+2026-04-13 19:09:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-13 19:56:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-04-13 22:21:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-04-13 22:22:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-13 22:43:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-04-13 22:51:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-13 22:53:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-13 22:54:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-14 06:50:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-04-14 06:51:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-14 06:52:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,High,Human
+2026-04-14 07:28:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,70,Human
+2026-04-14 07:56:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-04-14 07:57:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,35,Human
+2026-04-14 09:08:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-04-14 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-04-14 19:23:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-14 19:24:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-04-14 19:25:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-04-14 19:26:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-14 20:12:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-04-14 22:38:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-04-14 22:39:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-04-14 22:45:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-04-14 23:08:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-14 23:10:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-14 23:11:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-15 06:59:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-04-15 07:00:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-15 07:01:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-04-15 07:39:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,100,Human
+2026-04-15 08:05:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-04-15 08:06:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,35,Human
+2026-04-15 09:08:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-04-15 19:48:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-15 19:49:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,80,Human
+2026-04-15 19:50:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-04-15 19:51:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-15 20:04:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-04-15 22:22:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-04-15 22:23:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-15 22:48:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-04-15 23:14:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-15 23:16:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-15 23:17:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-16 07:10:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-04-16 07:11:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-16 07:12:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,High,Human
+2026-04-16 07:31:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,80,Human
+2026-04-16 07:53:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-04-16 07:54:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-04-16 09:03:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-04-16 19:50:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-16 19:51:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-04-16 19:52:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-04-16 19:53:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-16 20:04:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-04-16 22:25:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-04-16 22:26:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-04-16 22:47:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-04-16 22:55:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-16 22:57:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-16 22:58:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-17 07:02:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-04-17 07:03:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-17 07:04:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-04-17 07:20:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,80,Human
+2026-04-17 07:57:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-04-17 07:58:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-04-17 09:04:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-04-17 19:54:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-17 19:55:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,75,Human
+2026-04-17 19:56:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-04-17 19:57:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-17 20:08:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-04-17 22:31:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-04-17 22:32:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-04-17 22:45:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-17 22:47:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-17 22:48:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-17 22:49:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-04-18 08:54:00,Hallway_Vacuum_1,Robot Vacuum,Cleaning State,Clean,Human
+2026-04-18 08:55:00,Hallway_Vacuum_1,Robot Vacuum,Suction Power,Max,Human
+2026-04-18 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-04-18 14:20:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,21,Human
+2026-04-18 14:21:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-04-18 19:26:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-18 19:27:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,75,Human
+2026-04-18 19:28:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-04-18 19:29:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-18 22:40:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-04-18 22:41:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-18 22:51:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-18 22:53:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-04-18 22:53:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-18 22:54:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-19 14:25:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-04-19 14:26:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-19 19:18:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-19 19:19:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,75,Human
+2026-04-19 19:20:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-04-19 19:21:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-19 22:37:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-04-19 22:44:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-04-19 22:45:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-19 23:11:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-19 23:13:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-19 23:14:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-20 07:07:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-04-20 07:08:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-20 07:09:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Low,Human
+2026-04-20 07:33:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,80,Human
+2026-04-20 08:00:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-04-20 08:01:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,30,Human
+2026-04-20 09:05:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-04-20 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-04-20 18:00:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,50,Automation
+2026-04-20 19:32:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-20 19:33:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,75,Human
+2026-04-20 19:34:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3500,Human
+2026-04-20 19:35:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-20 19:50:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-04-20 22:31:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-04-20 22:32:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-20 22:54:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-04-20 23:04:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-20 23:06:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-20 23:07:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-21 07:03:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,21,Human
+2026-04-21 07:04:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-21 07:05:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,High,Human
+2026-04-21 07:22:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,100,Human
+2026-04-21 08:08:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-04-21 08:09:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,30,Human
+2026-04-21 09:07:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-04-21 12:00:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,26,Automation
+2026-04-21 19:05:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-21 19:06:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,60,Human
+2026-04-21 19:07:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-04-21 19:08:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-21 20:03:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-04-21 22:36:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-04-21 22:39:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-04-21 22:40:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-21 22:49:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-21 22:51:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-21 22:52:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-22 06:57:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-04-22 06:58:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-22 06:59:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-04-22 07:27:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,90,Human
+2026-04-22 08:04:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-04-22 08:05:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,35,Human
+2026-04-22 09:01:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-04-22 18:00:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,50,Automation
+2026-04-22 19:32:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-22 19:33:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,75,Human
+2026-04-22 19:34:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-04-22 19:35:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-22 20:13:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-04-22 22:41:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-04-22 22:42:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-04-22 22:43:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-22 23:06:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-22 23:08:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-22 23:09:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-23 06:57:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-04-23 06:58:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-23 06:59:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-04-23 07:23:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,90,Human
+2026-04-23 07:59:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-04-23 08:00:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-04-23 08:54:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-04-23 19:38:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-23 19:39:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,65,Human
+2026-04-23 19:40:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3500,Human
+2026-04-23 19:41:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-23 19:51:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-04-23 22:27:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,21,Human
+2026-04-23 22:28:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-23 22:50:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-23 22:51:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-04-23 22:52:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-23 22:53:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-24 06:58:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,23,Human
+2026-04-24 06:59:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-24 07:00:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,High,Human
+2026-04-24 07:32:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,80,Human
+2026-04-24 07:53:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-04-24 07:54:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,30,Human
+2026-04-24 08:56:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-04-24 19:18:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-24 19:19:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-04-24 19:20:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-04-24 19:21:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-24 19:52:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-04-24 22:36:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-04-24 22:37:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-24 22:47:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-04-24 22:59:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-24 23:01:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-24 23:02:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-25 08:58:00,Hallway_Vacuum_1,Robot Vacuum,Cleaning State,Clean,Human
+2026-04-25 08:59:00,Hallway_Vacuum_1,Robot Vacuum,Suction Power,Max,Human
+2026-04-25 14:39:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-04-25 14:40:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-04-25 19:34:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-25 19:35:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-04-25 19:36:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-04-25 19:37:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-25 22:26:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-04-25 22:27:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-25 22:42:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-04-25 23:08:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-25 23:10:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-25 23:11:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-26 14:30:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-04-26 14:31:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-04-26 19:54:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-26 19:55:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,70,Human
+2026-04-26 19:56:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-04-26 19:57:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-26 22:26:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-04-26 22:27:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Fan,Human
+2026-04-26 22:53:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Disabled,Human
+2026-04-26 23:06:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-26 23:08:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-26 23:09:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-27 06:57:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,21,Human
+2026-04-27 06:58:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-27 06:59:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Low,Human
+2026-04-27 07:25:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,80,Human
+2026-04-27 07:58:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-04-27 07:59:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,30,Human
+2026-04-27 08:50:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-04-27 19:53:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-27 19:54:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,75,Human
+2026-04-27 19:55:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-04-27 19:56:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-27 20:10:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-04-27 22:38:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-04-27 22:39:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-27 22:53:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-04-27 23:06:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-27 23:08:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-27 23:09:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-28 06:54:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,21,Human
+2026-04-28 06:55:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-28 06:56:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,High,Human
+2026-04-28 07:37:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,100,Human
+2026-04-28 07:57:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-04-28 07:58:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,40,Human
+2026-04-28 09:06:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-04-28 19:11:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-28 19:12:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,65,Human
+2026-04-28 19:13:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,3000,Human
+2026-04-28 19:14:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-28 20:11:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-04-28 22:30:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,19,Human
+2026-04-28 22:31:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-28 22:45:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-04-28 23:09:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-28 23:11:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-28 23:12:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-29 06:58:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,22,Human
+2026-04-29 06:59:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-29 07:00:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,High,Human
+2026-04-29 07:23:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,100,Human
+2026-04-29 07:53:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-04-29 07:54:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,35,Human
+2026-04-29 09:00:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-04-29 19:35:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-29 19:36:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,75,Human
+2026-04-29 19:37:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-04-29 19:38:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-29 20:01:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,10,Human
+2026-04-29 22:30:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-04-29 22:31:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-29 22:44:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-04-29 22:46:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-29 22:48:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-29 22:49:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-30 07:10:00,LivingRoom_AC_1,Smart Air Conditioner,Target Temperature,21,Human
+2026-04-30 07:11:00,LivingRoom_AC_1,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-30 07:12:00,LivingRoom_AC_1,Smart Air Conditioner,Fan Speed,Med,Human
+2026-04-30 07:38:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,70,Human
+2026-04-30 08:08:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Play,Human
+2026-04-30 08:09:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Volume Level,30,Human
+2026-04-30 08:58:00,Kitchen_Speaker_1,Smart Speaker / Receiver,Playback State,Stop,Human
+2026-04-30 19:53:00,LivingRoom_LED_1,Smart LED Bulb,Power State,On,Human
+2026-04-30 19:54:00,LivingRoom_LED_1,Smart LED Bulb,Brightness,80,Human
+2026-04-30 19:55:00,LivingRoom_LED_1,Smart LED Bulb,Color Temperature,2700,Human
+2026-04-30 19:56:00,TV_Plug_1,Smart Plug / Outlet,Switch State,On,Human
+2026-04-30 20:10:00,LivingRoom_Blinds_1,Smart Blinds / Shades,Open/Close Percentage,0,Human
+2026-04-30 22:23:00,Bedroom_AC_2,Smart Air Conditioner,Target Temperature,20,Human
+2026-04-30 22:24:00,Bedroom_AC_2,Smart Air Conditioner,Operation Mode,Cool,Human
+2026-04-30 22:47:00,FrontDoor_Cam_1,Security Camera,Privacy Mode,Enabled,Human
+2026-04-30 22:49:00,LivingRoom_LED_1,Smart LED Bulb,Power State,Off,Human
+2026-04-30 22:51:00,TV_Plug_1,Smart Plug / Outlet,Switch State,Off,Human
+2026-04-30 22:52:00,Bedroom_Plug_1,Smart Plug / Outlet,Switch State,Off,Human

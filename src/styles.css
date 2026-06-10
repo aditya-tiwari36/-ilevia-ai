@@ -1,0 +1,552 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ─── Base reset ─────────────────────────────────────────── */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  /* Bug 2/4: prevent horizontal overflow from clipping fixed elements */
+  overflow-x: hidden;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  background: #eef5f0;
+  /* Prevent content from slipping under the fixed AI agent button */
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+button, select, input {
+  font: inherit;
+}
+
+/* ─── Scrollbar styling ──────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(87, 202, 190, 0.3);
+  border-radius: 99px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(87, 202, 190, 0.6);
+}
+
+/* ─── Device hotspot buttons ─────────────────────────────── */
+.device-hotspot {
+  position: absolute;
+  display: grid;
+  width: 52px;
+  height: 52px;
+  place-items: center;
+  /* Bug 5 FIX: use transform-based centering only — never change
+     top/left on hover so layout stays anchored */
+  transform: translate(-50%, -50%);
+  border: 1.5px solid rgba(255, 255, 255, 0.76);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.78);
+  color: #172321;
+  box-shadow: 0 12px 32px rgba(38, 56, 50, 0.16);
+  backdrop-filter: blur(14px);
+  cursor: pointer;
+  z-index: 10;
+  /* Bug 5 FIX: will-change:transform ensures hover scale uses GPU layer
+     and does NOT trigger layout recalculation that would shift siblings */
+  will-change: transform;
+  transition: box-shadow 0.22s ease, background 0.22s ease, color 0.22s ease, border-color 0.22s ease;
+  /* Bug 5 FIX: prevent the pulsing child rings from expanding the button's
+     layout box. overflow:visible keeps rings visible but isolation prevents
+     stacking-context jitter. */
+  isolation: isolate;
+}
+
+/* Bug 5 FIX: framer-motion applies whileHover scale via inline transform.
+   Setting transform-origin to center + overriding to translate(-50%,-50%)
+   ensures the hotspot scales around its own centre, not page origin. */
+.device-hotspot[style*="transform"] {
+  transform-origin: center center;
+}
+
+.device-hotspot.selected {
+  background: #172321;
+  color: white;
+  border-color: rgba(87, 202, 190, 0.5);
+  box-shadow:
+    0 0 0 8px rgba(87, 202, 190, 0.18),
+    0 18px 44px rgba(38, 56, 50, 0.26);
+}
+
+.device-hotspot.active:not(.selected) {
+  box-shadow:
+    0 0 38px rgba(255, 224, 100, 0.68),
+    0 12px 32px rgba(38, 56, 50, 0.16);
+}
+
+/* ─── Device effect halos ────────────────────────────────── */
+.device-effect {
+  position: absolute;
+  inset: -18px;
+  border-radius: 999px;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.device-effect.light {
+  background: radial-gradient(circle, rgba(255, 224, 100, 0.58), rgba(255, 224, 100, 0) 68%);
+  animation: glow-pulse 2.4s ease-in-out infinite;
+}
+
+.device-effect.ac {
+  background: repeating-linear-gradient(
+    90deg,
+    rgba(95, 191, 226, 0) 0px,
+    rgba(95, 191, 226, 0) 7px,
+    rgba(95, 191, 226, 0.34) 11px,
+    rgba(95, 191, 226, 0) 19px
+  );
+  animation: ac-drift 1.6s linear infinite;
+}
+
+.device-effect.speaker {
+  border: 3px solid rgba(87, 202, 190, 0.44);
+  animation: ring-pulse 1.1s ease-out infinite;
+}
+
+.device-effect.irrigation {
+  background: radial-gradient(circle, rgba(74, 175, 218, 0.48), rgba(74, 175, 218, 0) 62%);
+  animation: spray-pulse 1.2s ease-in-out infinite;
+}
+
+.device-effect.camera {
+  box-shadow: inset 0 0 0 5px rgba(237, 60, 60, 0.52);
+  animation: glow-pulse 1.6s ease-in-out infinite;
+}
+
+.device-effect.fan {
+  background: radial-gradient(circle, rgba(87, 202, 190, 0.32), rgba(87, 202, 190, 0) 60%);
+  animation: glow-pulse 1.8s ease-in-out infinite;
+}
+
+.device-effect.blinds {
+  background: radial-gradient(circle, rgba(232, 164, 66, 0.32), rgba(232, 164, 66, 0) 60%);
+  animation: glow-pulse 2.2s ease-in-out infinite;
+}
+
+.device-effect.plug {
+  background: radial-gradient(circle, rgba(130, 232, 200, 0.32), rgba(130, 232, 200, 0) 60%);
+  animation: glow-pulse 2s ease-in-out infinite;
+}
+
+/* ─── Toggle button ──────────────────────────────────────── */
+.toggle-btn {
+  position: relative;
+  display: block;
+  width: 56px;
+  height: 30px;
+  border-radius: 999px;
+  background: #ccd9d4;
+  border: none;
+  cursor: pointer;
+  transition: background 0.25s ease;
+}
+
+.toggle-btn span {
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  width: 24px;
+  height: 24px;
+  border-radius: 999px;
+  background: white;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+  transition: transform 0.25s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.toggle-btn.on {
+  background: #35766f;
+}
+
+.toggle-btn.on span {
+  transform: translateX(26px);
+}
+
+/* ─── AI Agent floating nav ──────────────────────────────── */
+/* Bug 1 + Bug 2 FIXES:
+   - Repositioned to bottom-right with max inset clamp so it never
+     touches the screen edge on any viewport.
+   - Navigation items now have a solid dark backdrop + border for
+     strong contrast — previously rgba(255,255,255,0.16) on a light
+     background produced near-invisible buttons.
+   - Label text got a text-shadow for legibility on mixed backgrounds.
+   - The radial spread is constrained upward/left so the leftmost item
+     (Console, angle -42°) never exits the right viewport edge.
+*/
+.agent-nav-shell {
+  position: fixed;
+  right: calc(2rem + env(safe-area-inset-right, 0px));
+  bottom: calc(2rem + env(safe-area-inset-bottom, 0px));
+  z-index: 50;
+  transition: right 0.24s ease, bottom 0.24s ease;
+}
+
+.agent-nav-shell--room {
+  right: calc(462px + env(safe-area-inset-right, 0px));
+}
+
+.agent-orb-btn {
+  position: relative;
+  display: grid;
+  width: 68px;
+  height: 68px;
+  place-items: center;
+  border-radius: 999px;
+  border: 1.5px solid rgba(87, 202, 190, 0.55);
+  background: rgba(14, 30, 28, 0.92);
+  color: white;
+  backdrop-filter: blur(20px);
+  cursor: pointer;
+  transition: border-color 0.3s ease;
+  box-shadow:
+    0 0 0 1px rgba(87, 202, 190, 0.1),
+    0 0 32px rgba(87, 202, 190, 0.36);
+}
+
+.agent-orb-btn:hover {
+  border-color: rgba(87, 202, 190, 0.8);
+}
+
+.agent-orb-ring {
+  position: absolute;
+  inset: -8px;
+  border-radius: 999px;
+  border: 1px solid rgba(87, 202, 190, 0.2);
+  animation: ring-pulse 2.2s ease-out infinite;
+  pointer-events: none;
+}
+
+/* Bug 1 FIX: High-contrast action buttons with dark glass background.
+   Old: rgba(255,255,255,0.16) → invisible on light page bg.
+   New: near-opaque dark glass + teal border + text-shadow on labels. */
+.agent-action-btn {
+  display: grid;
+  width: 52px;
+  height: 52px;
+  place-items: center;
+  border-radius: 999px;
+  /* Dark glass so icons are always visible regardless of page background */
+  border: 1.5px solid rgba(87, 202, 190, 0.45);
+  background: rgba(12, 28, 26, 0.88);
+  color: #e0f5f2;
+  backdrop-filter: blur(16px);
+  cursor: pointer;
+  box-shadow:
+    0 2px 12px rgba(0, 0, 0, 0.45),
+    0 0 0 1px rgba(87, 202, 190, 0.12);
+  transition: background 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.agent-action-btn:hover {
+  background: rgba(20, 48, 44, 0.96);
+  border-color: rgba(87, 202, 190, 0.75);
+  box-shadow:
+    0 4px 20px rgba(0, 0, 0, 0.5),
+    0 0 0 1px rgba(87, 202, 190, 0.25);
+}
+
+.agent-action-btn.active {
+  background: #57cabe;
+  color: #0a1a18;
+  border-color: rgba(87, 202, 190, 0.9);
+  box-shadow:
+    0 4px 20px rgba(87, 202, 190, 0.55),
+    0 0 0 3px rgba(87, 202, 190, 0.18);
+}
+
+/* Bug 1 FIX: Label text gets a dark drop-shadow so it's readable on any
+   background — the room section has a near-white bg that previously
+   made white/70 labels invisible. */
+.agent-action-label {
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #e0f5f2;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.85), 0 0 8px rgba(0, 0, 0, 0.6);
+  white-space: nowrap;
+  user-select: none;
+  pointer-events: none;
+}
+
+.agent-action-label.active {
+  color: #57cabe;
+}
+
+/* ─── Room right column sizing ───────────────────────────── */
+.room-weather-panel {
+  min-height: 160px;
+  max-height: min(436px, calc((100vh - 40px) * 0.42));
+  overflow-y: auto;
+  flex-shrink: 1;
+}
+
+.room-decision-panel {
+  min-height: 118px;
+  max-height: min(240px, calc((100vh - 40px) * 0.24));
+  flex-shrink: 1;
+}
+
+.room-decision-panel > .space-y-2 {
+  max-height: calc(100% - 34px);
+}
+
+.room-reason-slot {
+  min-height: 190px;
+}
+
+/* ─── Glass panel ────────────────────────────────────────── */
+.glass-panel {
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  border-radius: 28px;
+  background: rgba(255, 255, 255, 0.1);
+  box-shadow: 0 24px 72px rgba(0, 0, 0, 0.2);
+  padding: 22px;
+  backdrop-filter: blur(22px);
+}
+
+/* ─── Simulation dropdown overrides ─────────────────────── */
+/* Bug 3 FIX: Browser-native <select> on glassmorphism panels
+   renders the dropdown list in the OS theme which ignores CSS on
+   the list itself. Forcing a solid dark background with high-contrast
+   text on the element ensures the selected value is always visible.
+   The option[class] trick targets the open list on supported browsers. */
+.glass-select {
+  width: 100%;
+  appearance: none;
+  border-radius: 16px;
+  border: 1.5px solid rgba(255, 255, 255, 0.28);
+  /* Opaque dark background instead of translucent so text is always visible */
+  background: rgba(10, 22, 20, 0.82);
+  padding: 11px 40px 11px 16px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  /* High contrast white text — was previously white on near-white glass */
+  color: #e8f5f2;
+  backdrop-filter: blur(12px);
+  cursor: pointer;
+  outline: none;
+  transition: border-color 0.2s ease, background 0.2s ease;
+}
+
+.glass-select:focus {
+  border-color: rgba(87, 202, 190, 0.7);
+  background: rgba(10, 26, 24, 0.92);
+}
+
+/* Option items: solid dark so they're readable in the OS dropdown list */
+.glass-select option {
+  background: #0d2220;
+  color: #e8f5f2;
+  font-weight: 500;
+}
+
+/* ─── Animations ─────────────────────────────────────────── */
+@keyframes glow-pulse {
+  0%, 100% { opacity: 0.55; transform: scale(0.92); }
+  50% { opacity: 1; transform: scale(1.1); }
+}
+
+@keyframes ring-pulse {
+  0% { transform: scale(1); opacity: 0.7; }
+  70% { transform: scale(1.25); opacity: 0; }
+  100% { transform: scale(1.25); opacity: 0; }
+}
+
+@keyframes ac-drift {
+  from { transform: translateX(-10px); opacity: 0.4; }
+  to { transform: translateX(10px); opacity: 0.85; }
+}
+
+@keyframes spray-pulse {
+  0%, 100% { transform: scale(0.88) translateY(0); opacity: 0.55; }
+  50% { transform: scale(1.18) translateY(10px); opacity: 0.95; }
+}
+
+/* ─── Recharts overrides ─────────────────────────────────── */
+.recharts-tooltip-wrapper {
+  outline: none;
+}
+
+/* ─── Responsive breakpoints ─────────────────────────────── */
+@media (max-width: 1200px) {
+  /* Stack side panels below room canvas on tablets */
+  .min-h-screen.px-5 > .grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  .min-h-screen.px-5 > .grid > aside {
+    max-height: none;
+    overflow: visible;
+  }
+}
+
+@media (max-width: 1440px) {
+  .agent-nav-shell--room {
+    right: calc(442px + env(safe-area-inset-right, 0px));
+  }
+}
+
+@media (max-height: 800px) {
+  .room-weather-panel {
+    max-height: calc((100vh - 40px) * 0.34);
+  }
+
+  .room-decision-panel {
+    min-height: 112px;
+    max-height: calc((100vh - 40px) * 0.2);
+  }
+
+  .room-reason-slot {
+    min-height: 240px;
+  }
+}
+
+/* Bug 4 FIX: On screens narrower than 1100px the right aside panel
+   in RoomSection was wider than the viewport and the ReasonPanel
+   overflowed. Collapse to a full-width layout below that breakpoint. */
+@media (max-width: 1100px) {
+  /* RoomSection two-column grid → single column */
+  .room-section-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  /* Aside becomes a horizontally scrollable strip */
+  .room-section-aside {
+    flex-direction: row;
+    overflow-x: auto;
+    max-height: none;
+  }
+
+  .room-weather-panel,
+  .room-decision-panel,
+  .room-reason-slot {
+    min-width: 320px;
+  }
+
+  .agent-nav-shell--room {
+    right: calc(2rem + env(safe-area-inset-right, 0px));
+  }
+}
+
+/* ─── Mobile Responsive Overrides (max 767px) ────────────────── */
+@media (max-width: 767px) {
+
+  /* ── Room Section ── */
+  .room-section-grid {
+    grid-template-columns: 1fr !important;
+    height: auto !important;
+    min-height: auto !important;
+  }
+
+  .room-section-aside {
+    flex-direction: column !important;
+    overflow-x: visible !important;
+    max-height: none !important;
+    height: auto !important;
+  }
+
+  .room-reason-slot {
+    min-width: 0 !important;
+    min-height: 400px;
+    height: 480px;
+  }
+
+  .room-weather-panel,
+  .room-decision-panel {
+    min-width: 0 !important;
+  }
+
+  /* ── AI Reason Panel — constrained on mobile ── */
+  section.room-reason-slot > section {
+    max-height: 480px !important;
+  }
+
+  /* ── AI Agent orb — move to true bottom-right corner, no room offset ── */
+  .agent-nav-shell--room {
+    right: calc(1rem + env(safe-area-inset-right, 0px)) !important;
+    bottom: calc(1rem + env(safe-area-inset-bottom, 0px)) !important;
+  }
+
+  .agent-nav-shell {
+    right: calc(1rem + env(safe-area-inset-right, 0px));
+    bottom: calc(1rem + env(safe-area-inset-bottom, 0px));
+  }
+
+  /* ── Device hotspots — larger touch targets on mobile ── */
+  .device-hotspot {
+    width: 48px;
+    height: 48px;
+    min-width: 44px;
+    min-height: 44px;
+  }
+
+  /* ── Glass panel — tighter padding on mobile ── */
+  .glass-panel {
+    padding: 16px;
+    border-radius: 20px;
+  }
+
+  /* ── Pipeline status bar — hide less important items on mobile ── */
+  .pipeline-stat-separator,
+  .pipeline-stat-latency,
+  .pipeline-stat-batch {
+    display: none;
+  }
+
+  /* ── Room nav scrollbar — hide scrollbar track but keep function ── */
+  nav::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* ── Simulation section ── */
+  .simulation-main-panel {
+    max-height: none !important;
+  }
+}
+
+/* ─── Tablet Responsive Overrides (768px – 1023px) ──────────── */
+@media (min-width: 768px) and (max-width: 1023px) {
+
+  /* ── Room section: keep two-col but narrow reason panel ── */
+  .room-section-grid {
+    grid-template-columns: 1fr 300px !important;
+  }
+
+  /* ── AI orb: reset room offset for tablets ── */
+  .agent-nav-shell--room {
+    right: calc(320px + env(safe-area-inset-right, 0px)) !important;
+  }
+
+  /* ── Glass panel tighter ── */
+  .glass-panel {
+    padding: 18px;
+    border-radius: 22px;
+  }
+}
+
+/* ─── Safe area: prevent content touching the iPhone home bar ── */
+@supports (padding-bottom: env(safe-area-inset-bottom)) {
+  body {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+}
+

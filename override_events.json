@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": "2026-06-10T19:12:13.885Z",
+    "room": "Living Room",
+    "device": "LivingRoom_AC_1",
+    "device_name": "Climate AC",
+    "device_type": "Smart Air Conditioner",
+    "device_kind": "ac",
+    "parameter_changed": "Target Temperature",
+    "old_value": 19.72,
+    "new_value": 25,
+    "Trigger_Source": "Human",
+    "previous_automation": {
+      "timestamp": "2026-06-10T19:12:10.169Z",
+      "parameter": "Operation Mode",
+      "predicted_value": "Cool",
+      "confidence": 0.9277,
+      "status": "Executed",
+      "reason": "OK",
+      "is_correction": true
+    }
+  }
+]

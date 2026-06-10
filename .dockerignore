@@ -1,0 +1,11 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+logs/
+.git/
+.env
+ML_algorithm/smarthome_data/models/
+ML_algorithm/smarthome_data/activity_log_store.csv
+ML_algorithm/smarthome_data/model_metrics.csv
+ML_algorithm/smarthome_data/encoders.joblib

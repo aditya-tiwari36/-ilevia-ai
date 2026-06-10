@@ -1,0 +1,135 @@
+timestamp,key,device_id,parameter,n_samples,metric_name,metric,model_type,status,reason,predicted
+2026-06-09T14:36:39.987198,Bedroom_AC_2__Operation Mode,Bedroom_AC_2,Operation Mode,54,Accuracy,0.5455,clf,DROPPED,accuracy 0.545 < 0.55,
+2026-06-09T14:36:40.179220,Bedroom_AC_2__Target Temperature,Bedroom_AC_2,Target Temperature,54,MAE,0.1203,reg,OK,,
+2026-06-09T14:36:40.384684,Bedroom_LED_2__Brightness,Bedroom_LED_2,Brightness,54,MAE,5.0362,reg,OK,,
+2026-06-09T14:36:40.618988,Bedroom_LED_2__Color Temperature,Bedroom_LED_2,Color Temperature,54,Accuracy,0.3636,clf,DROPPED,accuracy 0.364 < 0.55,
+2026-06-09T14:36:40.863520,FrontDoor_Cam_1__Privacy Mode,FrontDoor_Cam_1,Privacy Mode,54,Accuracy,0.2727,clf,DROPPED,accuracy 0.273 < 0.55,
+2026-06-09T14:36:41.134107,Garden_Irrigation_1__Zone 1 State,Garden_Irrigation_1,Zone 1 State,55,Accuracy,1.0,clf,OK,,
+2026-06-09T14:36:41.437338,Hallway_Vacuum_1__Suction Power,Hallway_Vacuum_1,Suction Power,8,Accuracy,0.5,clf,DROPPED,accuracy 0.500 < 0.55,
+2026-06-09T14:36:41.724149,Kitchen_Speaker_1__Playback State,Kitchen_Speaker_1,Playback State,78,Accuracy,1.0,clf,OK,,
+2026-06-09T14:36:41.940305,Kitchen_Speaker_1__Volume Level,Kitchen_Speaker_1,Volume Level,39,MAE,5.5137,reg,OK,,
+2026-06-09T14:36:42.198750,LivingRoom_AC_1__Fan Speed,LivingRoom_AC_1,Fan Speed,39,Accuracy,0.125,clf,DROPPED,accuracy 0.125 < 0.55,
+2026-06-09T14:36:42.431911,LivingRoom_AC_1__Operation Mode,LivingRoom_AC_1,Operation Mode,55,Accuracy,0.9091,clf,OK,,
+2026-06-09T14:36:42.634209,LivingRoom_AC_1__Target Temperature,LivingRoom_AC_1,Target Temperature,55,MAE,0.4692,reg,OK,,
+2026-06-09T14:36:42.825919,LivingRoom_Blinds_1__Open/Close Percentage,LivingRoom_Blinds_1,Open/Close Percentage,77,MAE,5.1525,reg,OK,,
+2026-06-09T14:36:43.015288,LivingRoom_LED_1__Brightness,LivingRoom_LED_1,Brightness,54,MAE,5.2504,reg,OK,,
+2026-06-09T14:36:43.278450,LivingRoom_LED_1__Color Temperature,LivingRoom_LED_1,Color Temperature,54,Accuracy,0.3636,clf,DROPPED,accuracy 0.364 < 0.55,
+2026-06-09T14:36:43.506963,LivingRoom_LED_1__Power State,LivingRoom_LED_1,Power State,108,Accuracy,1.0,clf,OK,,
+2026-06-09T14:36:43.730843,TV_Plug_1__Switch State,TV_Plug_1,Switch State,108,Accuracy,1.0,clf,OK,,
+2026-06-09T14:36:45.469321,Bedroom_AC_2__Operation Mode,Bedroom_AC_2,Operation Mode,102,Accuracy,0.7619,clf,OK,,
+2026-06-09T14:36:45.656800,Bedroom_AC_2__Target Temperature,Bedroom_AC_2,Target Temperature,102,MAE,0.0525,reg,OK,,
+2026-06-09T14:36:45.853467,Bedroom_LED_2__Brightness,Bedroom_LED_2,Brightness,102,MAE,6.5557,reg,OK,,
+2026-06-09T14:36:46.076054,Bedroom_LED_2__Color Temperature,Bedroom_LED_2,Color Temperature,102,Accuracy,0.5714,clf,OK,,
+2026-06-09T14:36:46.305793,FrontDoor_Cam_1__Privacy Mode,FrontDoor_Cam_1,Privacy Mode,102,Accuracy,0.7143,clf,OK,,
+2026-06-09T14:36:46.543739,Garden_Irrigation_1__Zone 1 State,Garden_Irrigation_1,Zone 1 State,103,Accuracy,1.0,clf,OK,,
+2026-06-09T14:36:46.772698,Hallway_Vacuum_1__Suction Power,Hallway_Vacuum_1,Suction Power,15,Accuracy,0.3333,clf,DROPPED,accuracy 0.333 < 0.55,
+2026-06-09T14:36:47.003689,Kitchen_Speaker_1__Playback State,Kitchen_Speaker_1,Playback State,146,Accuracy,1.0,clf,OK,,
+2026-06-09T14:36:47.192295,Kitchen_Speaker_1__Volume Level,Kitchen_Speaker_1,Volume Level,73,MAE,4.3822,reg,OK,,
+2026-06-09T14:36:47.439676,LivingRoom_AC_1__Fan Speed,LivingRoom_AC_1,Fan Speed,73,Accuracy,0.6,clf,OK,,
+2026-06-09T14:36:47.669034,LivingRoom_AC_1__Operation Mode,LivingRoom_AC_1,Operation Mode,103,Accuracy,0.9524,clf,OK,,
+2026-06-09T14:36:47.865785,LivingRoom_AC_1__Target Temperature,LivingRoom_AC_1,Target Temperature,103,MAE,0.8106,reg,OK,,
+2026-06-09T14:36:48.050020,LivingRoom_Blinds_1__Open/Close Percentage,LivingRoom_Blinds_1,Open/Close Percentage,146,MAE,5.0566,reg,OK,,
+2026-06-09T14:36:48.286677,LivingRoom_Fan_1__Fan Speed,LivingRoom_Fan_1,Fan Speed,44,Accuracy,0.5556,clf,OK,,
+2026-06-09T14:36:48.529668,LivingRoom_Fan_1__Power State,LivingRoom_Fan_1,Power State,88,Accuracy,1.0,clf,OK,,
+2026-06-09T14:36:48.727184,LivingRoom_LED_1__Brightness,LivingRoom_LED_1,Brightness,103,MAE,4.7027,reg,OK,,
+2026-06-09T14:36:48.968097,LivingRoom_LED_1__Color Temperature,LivingRoom_LED_1,Color Temperature,103,Accuracy,0.4762,clf,DROPPED,accuracy 0.476 < 0.55,
+2026-06-09T14:36:49.212300,LivingRoom_LED_1__Power State,LivingRoom_LED_1,Power State,205,Accuracy,1.0,clf,OK,,
+2026-06-09T14:36:49.446904,TV_Plug_1__Switch State,TV_Plug_1,Switch State,205,Accuracy,1.0,clf,OK,,
+2026-06-09T14:36:52.019220,Bedroom_AC_2__Operation Mode,Bedroom_AC_2,Operation Mode,150,Accuracy,0.6333,clf,OK,,
+2026-06-09T14:36:52.225347,Bedroom_AC_2__Target Temperature,Bedroom_AC_2,Target Temperature,150,MAE,0.013,reg,OK,,
+2026-06-09T14:36:52.427099,Bedroom_LED_2__Brightness,Bedroom_LED_2,Brightness,150,MAE,5.7416,reg,OK,,
+2026-06-09T14:36:52.664543,Bedroom_LED_2__Color Temperature,Bedroom_LED_2,Color Temperature,150,Accuracy,0.5,clf,DROPPED,accuracy 0.500 < 0.55,
+2026-06-09T14:36:52.897133,FrontDoor_Cam_1__Privacy Mode,FrontDoor_Cam_1,Privacy Mode,150,Accuracy,0.6667,clf,OK,,
+2026-06-09T14:36:53.124419,Garden_Irrigation_1__Zone 1 State,Garden_Irrigation_1,Zone 1 State,150,Accuracy,1.0,clf,OK,,
+2026-06-09T14:36:53.345679,Hallway_Vacuum_1__Suction Power,Hallway_Vacuum_1,Suction Power,22,Accuracy,0.4,clf,DROPPED,accuracy 0.400 < 0.55,
+2026-06-09T14:36:53.582616,Kitchen_Speaker_1__Playback State,Kitchen_Speaker_1,Playback State,214,Accuracy,1.0,clf,OK,,
+2026-06-09T14:36:53.788709,Kitchen_Speaker_1__Volume Level,Kitchen_Speaker_1,Volume Level,107,MAE,3.2386,reg,OK,,
+2026-06-09T14:36:54.040592,LivingRoom_AC_1__Fan Speed,LivingRoom_AC_1,Fan Speed,107,Accuracy,0.4091,clf,DROPPED,accuracy 0.409 < 0.55,
+2026-06-09T14:36:54.284003,LivingRoom_AC_1__Operation Mode,LivingRoom_AC_1,Operation Mode,150,Accuracy,0.9333,clf,OK,,
+2026-06-09T14:36:54.472421,LivingRoom_AC_1__Target Temperature,LivingRoom_AC_1,Target Temperature,150,MAE,0.79,reg,OK,,
+2026-06-09T14:36:54.668275,LivingRoom_Blinds_1__Open/Close Percentage,LivingRoom_Blinds_1,Open/Close Percentage,214,MAE,5.0396,reg,OK,,
+2026-06-09T14:36:54.907831,LivingRoom_Fan_1__Fan Speed,LivingRoom_Fan_1,Fan Speed,91,Accuracy,0.3684,clf,DROPPED,accuracy 0.368 < 0.55,
+2026-06-09T14:36:55.143160,LivingRoom_Fan_1__Power State,LivingRoom_Fan_1,Power State,182,Accuracy,1.0,clf,OK,,
+2026-06-09T14:36:55.334856,LivingRoom_LED_1__Brightness,LivingRoom_LED_1,Brightness,150,MAE,4.9637,reg,OK,,
+2026-06-09T14:36:55.603593,LivingRoom_LED_1__Color Temperature,LivingRoom_LED_1,Color Temperature,150,Accuracy,0.4,clf,DROPPED,accuracy 0.400 < 0.55,
+2026-06-09T14:36:55.861445,LivingRoom_LED_1__Power State,LivingRoom_LED_1,Power State,300,Accuracy,1.0,clf,OK,,
+2026-06-09T14:36:56.109018,TV_Plug_1__Switch State,TV_Plug_1,Switch State,300,Accuracy,1.0,clf,OK,,
+2026-06-10T20:15:51.786064,Bedroom_AC_2__Operation Mode,Bedroom_AC_2,Operation Mode,152,Accuracy,0.6129,clf,OK,,
+2026-06-10T20:15:52.079266,Bedroom_AC_2__Target Temperature,Bedroom_AC_2,Target Temperature,153,MAE,0.3205,reg,OK,,
+2026-06-10T20:15:52.382110,Bedroom_LED_2__Brightness,Bedroom_LED_2,Brightness,150,MAE,5.7416,reg,OK,,
+2026-06-10T20:15:52.741885,Bedroom_LED_2__Color Temperature,Bedroom_LED_2,Color Temperature,150,Accuracy,0.5,clf,DROPPED,accuracy 0.500 < 0.55,
+2026-06-10T20:15:53.102848,FrontDoor_Cam_1__Privacy Mode,FrontDoor_Cam_1,Privacy Mode,152,Accuracy,0.5806,clf,OK,,
+2026-06-10T20:15:53.476877,Garden_Irrigation_1__Zone 1 State,Garden_Irrigation_1,Zone 1 State,150,Accuracy,1.0,clf,OK,,
+2026-06-10T20:15:53.849633,Hallway_Vacuum_1__Suction Power,Hallway_Vacuum_1,Suction Power,22,Accuracy,0.4,clf,DROPPED,accuracy 0.400 < 0.55,
+2026-06-10T20:15:54.242689,Kitchen_Speaker_1__Playback State,Kitchen_Speaker_1,Playback State,214,Accuracy,1.0,clf,OK,,
+2026-06-10T20:15:54.546560,Kitchen_Speaker_1__Volume Level,Kitchen_Speaker_1,Volume Level,107,MAE,3.2386,reg,OK,,
+2026-06-10T20:15:54.919214,LivingRoom_AC_1__Fan Speed,LivingRoom_AC_1,Fan Speed,107,Accuracy,0.4091,clf,DROPPED,accuracy 0.409 < 0.55,
+2026-06-10T20:15:55.341145,LivingRoom_AC_1__Operation Mode,LivingRoom_AC_1,Operation Mode,152,Accuracy,0.8387,clf,OK,,
+2026-06-10T20:15:55.640910,LivingRoom_AC_1__Target Temperature,LivingRoom_AC_1,Target Temperature,153,MAE,0.9433,reg,OK,,
+2026-06-10T20:15:55.944588,LivingRoom_Blinds_1__Open/Close Percentage,LivingRoom_Blinds_1,Open/Close Percentage,397,MAE,9.4674,reg,OK,,
+2026-06-10T20:15:56.312752,LivingRoom_Fan_1__Fan Speed,LivingRoom_Fan_1,Fan Speed,91,Accuracy,0.3684,clf,DROPPED,accuracy 0.368 < 0.55,
+2026-06-10T20:15:56.664803,LivingRoom_Fan_1__Power State,LivingRoom_Fan_1,Power State,184,Accuracy,0.9459,clf,OK,,
+2026-06-10T20:15:56.956112,LivingRoom_LED_1__Brightness,LivingRoom_LED_1,Brightness,153,MAE,6.6532,reg,OK,,
+2026-06-10T20:15:57.384977,LivingRoom_LED_1__Color Temperature,LivingRoom_LED_1,Color Temperature,150,Accuracy,0.4,clf,DROPPED,accuracy 0.400 < 0.55,
+2026-06-10T20:15:57.805248,LivingRoom_LED_1__Power State,LivingRoom_LED_1,Power State,302,Accuracy,0.9672,clf,OK,,
+2026-06-10T20:15:58.189825,TV_Plug_1__Switch State,TV_Plug_1,Switch State,300,Accuracy,1.0,clf,OK,,
+2026-06-10T20:16:03.168713,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,59.33847883597885
+2026-06-10T20:22:47.375956,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,5.61018253968254
+2026-06-10T20:37:49.065857,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,5.702960317460317
+2026-06-10T20:52:50.580666,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,5.725182539682539
+2026-06-10T21:03:45.260971,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:03:46.209781,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:03:58.024108,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:03:58.870535,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:04:24.313095,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:04:25.196407,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894178
+2026-06-10T21:04:26.197511,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:04:27.276938,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:04:28.216591,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:04:29.264667,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:04:30.232826,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:04:31.285720,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:07:52.132056,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,5.740738095238094
+2026-06-10T21:15:43.128547,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:15:43.894924,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:20:47.048981,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:20:48.191731,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894176
+2026-06-10T21:20:49.533917,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:20:50.815096,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:20:51.905170,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:20:53.231278,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:20:54.221094,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:20:55.324150,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:21:54.837925,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:21:56.610096,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:21:58.118596,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:21:59.809998,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:22:01.331330,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:22:02.911367,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:22:04.006261,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894178
+2026-06-10T21:22:05.141615,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:22:24.871089,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:22:26.053607,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:22:27.348405,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:22:28.408445,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:22:29.759099,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:22:30.976480,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:22:32.269191,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:22:33.373831,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:22:54.519525,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,5.610182539682539
+2026-06-10T21:23:38.609626,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:23:40.219228,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:23:41.882633,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894176
+2026-06-10T21:23:43.488531,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:23:45.237157,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:23:46.811716,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:23:48.105892,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:23:49.098576,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:24:42.692763,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:24:44.314156,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:24:45.801819,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894176
+2026-06-10T21:24:47.273947,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:24:49.163613,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:24:50.554956,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894176
+2026-06-10T21:24:51.774653,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177
+2026-06-10T21:24:52.901393,Smart Motorized Blinds__Open/Close Percentage,Smart Motorized Blinds,Open/Close Percentage,0,REJECTION,,schema,REJECTED,Unknown: Smart Motorized Blinds/Open/Close Percentage,62.99419179894177

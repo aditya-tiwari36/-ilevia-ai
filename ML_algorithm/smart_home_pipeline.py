@@ -1466,7 +1466,7 @@ class SmartHomeIncrementalLearner:
         CORRECTION_WINDOW_MIN = 5
         CORRECTION_WEIGHT     = 3
         full_df = full_df.copy()
-        full_df["Timestamp"]     = pd.to_datetime(full_df["Timestamp"], format="mixed")
+        full_df["Timestamp"]     = pd.to_datetime(full_df["Timestamp"], format="mixed", utc=True)
         full_df                  = full_df.sort_values("Timestamp").reset_index(drop=True)
         full_df["sample_weight"] = 1
         auto_rows = full_df[full_df["Trigger_Source"] != "Human"]

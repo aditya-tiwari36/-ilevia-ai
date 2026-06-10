@@ -2744,7 +2744,34 @@ if __name__ == "__main__":
         @app.route("/api/force-retrain", methods=["POST"])
         def force_retrain():
             """Trigger immediate retraining."""
-            return jsonify({"ok": True, "message": "Retrain triggered"})
+            import pandas as pd
+            with runtime._lock:
+                learner = runtime._learner
+            if learner is None:
+                return jsonify({"error": "Learner not ready"}), 503
+            
+            print("[Flask] Force retraining triggered via API...")
+            new_bank = learner.retrain(new_row_count=0)
+            
+            if LOG_STORE.exists():
+                ctx_df   = build_context_from_log(pd.read_csv(LOG_STORE))
+                all_keys = [f"{row['Device_ID']}__{row['Parameter_Changed']}" for _, row in ctx_df.iterrows()]
+            else:
+                all_keys = list(runtime._all_model_keys)
+                
+            new_engine = SmartHomePredictionEngine(
+                model_bank       = new_bank,
+                schema_validator = learner.validator,
+                preprocessor     = learner.preprocessor,
+                enricher         = runtime._enricher if not runtime._enricher.use_csv_weather else None,
+                command_logger   = DeviceCommandLogger(runtime.command_log_path),
+            )
+            
+            with runtime._lock:
+                runtime._engine         = new_engine
+                runtime._all_model_keys = all_keys
+                
+            return jsonify({"ok": True, "message": "Retrain completed"})
         
         # Start Flask on port 5174 in a background thread
         import threading

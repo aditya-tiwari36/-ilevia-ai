@@ -2771,6 +2771,12 @@ if __name__ == "__main__":
                 runtime._engine         = new_engine
                 runtime._all_model_keys = all_keys
                 
+            # Force a prediction cycle immediately so commands.json updates
+            try:
+                runtime._run_prediction_cycle()
+            except Exception as e:
+                print(f"[Flask] Error running prediction cycle after retrain: {e}")
+                
             return jsonify({"ok": True, "message": "Retrain completed"})
         
         # Start Flask on port 5174 in a background thread

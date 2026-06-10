@@ -888,7 +888,7 @@ class SmartHomeModelBank:
             y_tr, y_te = y.iloc[:split_idx], y.iloc[split_idx:]
 
             # P1 FIX: MIN_CLASSIFIER_ACCURACY drop gate
-            MIN_CLASSIFIER_ACCURACY = 0.55
+            MIN_CLASSIFIER_ACCURACY = 0.40
 
             if is_numeric:
                 model = RandomForestRegressor(

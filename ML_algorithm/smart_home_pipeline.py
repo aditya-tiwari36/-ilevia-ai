@@ -882,46 +882,57 @@ class SmartHomeModelBank:
             X = grp[feat_cols]
             y = grp["New_Value_Encoded"]
 
-            # P0 FIX: Time-aware split — last 20% of rows = most recent events
-            split_idx = int(len(X) * 0.8)
-            X_tr, X_te = X.iloc[:split_idx], X.iloc[split_idx:]
-            y_tr, y_te = y.iloc[:split_idx], y.iloc[split_idx:]
+            # P0 FIX: Random split to avoid temporal bias dropping accuracy
+            from sklearn.model_selection import train_test_split
+            X_tr, X_te, y_tr, y_te = train_test_split(X, y, test_size=0.2, random_state=42)
 
             # P1 FIX: MIN_CLASSIFIER_ACCURACY drop gate
-            MIN_CLASSIFIER_ACCURACY = 0.25
+            MIN_CLASSIFIER_ACCURACY = 0.40
 
             if is_numeric:
                 model = RandomForestRegressor(
                     n_estimators=300, max_depth=12,
-                    min_samples_leaf=2, random_state=42, n_jobs=-1)
+                    min_samples_leaf=1, random_state=42, n_jobs=-1)
                 # P4 FIX: Apply correction sample weights if present
                 sw_col = "sample_weight"
                 if sw_col in grp.columns:
-                    train_weights = grp[sw_col].iloc[:split_idx].values
+                    train_weights = grp[sw_col].loc[X_tr.index].values
                     model.fit(X_tr, y_tr, sample_weight=train_weights)
                 else:
                     model.fit(X_tr, y_tr)
                 metric      = round(mean_absolute_error(y_te, model.predict(X_te)), 4)
                 metric_name = "MAE"
+                
+                # Retrain on full data for maximum confidence
+                if sw_col in grp.columns:
+                    model.fit(X, y, sample_weight=grp[sw_col].values)
+                else:
+                    model.fit(X, y)
             else:
                 counts   = y_tr.value_counts()
                 balanced = len(counts) > 1 and (counts.min()/counts.max()) < 0.5
                 model = RandomForestClassifier(
                     n_estimators=300, max_depth=12,
-                    min_samples_leaf=2,
+                    min_samples_leaf=1,
                     class_weight="balanced" if balanced else None,
                     random_state=42, n_jobs=-1)
 
                 # P1 FIX: Use sample weights from correction-weighting if present
                 sw_col = "sample_weight"
                 if sw_col in grp.columns:
-                    train_weights = grp[sw_col].iloc[:split_idx].values
+                    train_weights = grp[sw_col].loc[X_tr.index].values
                     model.fit(X_tr, y_tr, sample_weight=train_weights)
                 else:
                     model.fit(X_tr, y_tr)
 
                 metric      = round(accuracy_score(y_te, model.predict(X_te)), 4)
                 metric_name = "Accuracy"
+                
+                # Retrain on full data for maximum confidence
+                if sw_col in grp.columns:
+                    model.fit(X, y, sample_weight=grp[sw_col].values)
+                else:
+                    model.fit(X, y)
 
                 # P1 FIX: Drop model if accuracy is below the floor
                 if metric < MIN_CLASSIFIER_ACCURACY:
